@@ -1,0 +1,19 @@
+.activity-container{
+  background-color: #f0f0f0;
+    padding: 6px;
+    font-weight: lighter;
+    border-radius: 0px 12px 12px 12px;
+    color: black;
+}
+.activity-time{
+  color:#083769;
+  font-weight: bold;
+  align-items: flex-end!important;
+  text-align: right!important;
+  font-size: 12px;
+  padding-top: 10px;
+}
+.activity-message{
+
+  font-size: 16px;
+}

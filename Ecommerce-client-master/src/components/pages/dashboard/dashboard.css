@@ -1,0 +1,23 @@
+.site-layout-content {
+    padding: 24px;
+    min-height: 280px;
+}
+
+
+/* .container {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    flex-align: center;
+    flex-direction: row;
+} */
+
+.box {
+    width: 270px;
+    text-align: center;
+    margin: 25px auto;
+    transition: all 0.5s;
+    padding: 0 10px;
+}

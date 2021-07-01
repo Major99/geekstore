@@ -1,0 +1,19 @@
+.manage-container{
+  background-color: #f9f0ff;
+  padding: 10px;
+}
+.selected-category{
+  padding-top: 16px;
+}
+.each-selected-category{
+  background-color: #002766!important;
+  margin: 5px;
+  padding: 6px;
+  color: white!important;
+  font-size: 17px;
+  font-weight: lighter;
+  text-align: center!important;
+}
+.category-input{
+  background-color: white!important;
+}

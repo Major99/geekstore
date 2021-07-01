@@ -1,0 +1,55 @@
+.pdt-box{
+  padding: 20px;
+  margin:10px;
+  background-color: grey;
+}
+
+.container{
+  padding-left: 100px!important;
+}
+
+
+@media (max-width: 720px) {
+  .container{
+    padding-left: 50px!important;
+  }
+}
+h1{
+  font-weight: 600;
+  color: #29435d;
+}
+
+
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width:100%;
+
+}
+th{
+  background-color: #031b4d;
+  color:white;
+}
+td, th {
+  border: 1px solid #ede7f6;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color:#eaeef5;
+}
+.edit-btn{
+  margin: 10px;
+}
+.MuiSlider-marked {
+    /* color: crimson!important; */
+
+}
+.MuiSlider-track {
+    height: 12px!important;
+}
+.MuiSlider-rail {
+    height: 12px!important;
+}

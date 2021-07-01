@@ -1,0 +1,25 @@
+.MuiFormControl-fullWidth {
+    width: 100%!important;
+}
+.description-editor{
+  /* padding: 20px!important; */
+}
+.rdw-editor-main {
+
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.rdw-editor-toolbar {
+    background: #031b4d!important;
+}
+
+.rdw-editor-wrapper {
+    border-radius: 4px;
+    border: 1px solid #ada5a5;
+    box-sizing: content-box;
+    padding: 4px;
+}
+.rdw-editor-wrapper:hover {
+    border: 1px solid black;
+}
+ 
