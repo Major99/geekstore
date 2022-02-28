@@ -1,2 +1,2 @@
-# ourstore
+# geekstore
  Its a ecommerce store
